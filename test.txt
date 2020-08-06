@@ -1,0 +1,4 @@
+This file is used to check the delete commond.
+201411250948 I wrote a new sentence
+201411251010 I will make a miracle in this world!
+201411251053 I will make a new branch in test.txt
