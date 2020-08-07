@@ -11,6 +11,7 @@ public class App
         System.out.println("Hello World");
         System.out.println("test again");
         System.out.println("master write");
+        System.out.println("guide write");
         System.out.println("bbbbb");
         System.out.println("hahdhfe");
         System.out.println("this is my first maven project");
