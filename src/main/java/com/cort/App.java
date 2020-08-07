@@ -15,7 +15,8 @@ public class App
         System.out.println("bbbbb");
         System.out.println("hahdhfe");
         System.out.println("this is my first maven project");
-        System.out.println("again");
+        //System.out.println("again");
+        System.out.println("afklgonign");
     }
 }
 /*
